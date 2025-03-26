@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "histomics"
-version = "1.0.0"
+version = "0.0.1"
 description = "Histomics slide(WSI) analysis toolkit"
 authors = ["ScienceAdvances <yehior@hotmail.com>"]
 readme = "README.md"
